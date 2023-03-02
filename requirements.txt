@@ -1,0 +1,15 @@
+torch
+numpy
+pandas
+rasterio
+geopandas
+shapely
+descartes
+flask
+requests
+sahi
+yolov5
+pycocotools
+setuptools
+pygeos
+flask_autoindex
